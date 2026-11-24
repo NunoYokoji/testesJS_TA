@@ -1,4 +1,4 @@
-const mudanca = 20
+const mudanca = 5
 
 console.log(mudanca);
 console.log(typeof mudanca);
